@@ -15,16 +15,9 @@ public class LoggerTests {
     public void testLogger(){
         System.out.println(logger.getName());
 
-<<<<<<< HEAD
         logger.debug("debug log");
         logger.info("info log");
         logger.warn("warn log");
         logger.error("error log");
-=======
-//        logger.debug("debug log");
-//        logger.info("info log");
-//        logger.warn("warn log");
-//        logger.error("error log");
->>>>>>> c955f10 (modified)
     }
 }
